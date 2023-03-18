@@ -62,5 +62,6 @@ starter code: https://github.com/coding-boot-camp/friendly-parakeet
 
 github: https://github.com/IamIan777/JavaScriptPasswordGenerator
 
-link to webpage
+link to webpage: https://iamian777.github.io/JavaScriptPasswordGenerator/
+
 ![Alt text](assets/Password%20Generator.gif)
